@@ -1,0 +1,23 @@
+{
+  "name": "chat-with-me",
+  "version": "1.0.0",
+  "description": "Chat client built with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalc97/Chat-With-Me.git"
+  },
+  "author": "Bilal Chaudhry",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/bilalc97/Chat-With-Me/issues"
+  },
+  "homepage": "https://github.com/bilalc97/Chat-With-Me#readme"
+}
